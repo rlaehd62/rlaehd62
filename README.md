@@ -12,6 +12,7 @@
 ## 📜 Career
 - `2024.03` : (주)모티버 산학협력 프로젝트 Motivot (Project Leader)
 - `2024.03` : 한국정보처리학회 ASK 2024 논문 게제 및 제1저자 (Author)
+- `2024.07` : (주)제윤 현장실습 및 헬스케어 사업 기여 (Mobile App 개발)
 
 ## 📦 Project
 - [`Motivot`](https://github.com/rlaehd62/Motivot)
