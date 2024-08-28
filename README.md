@@ -15,9 +15,7 @@
 
 ## 📦 Project
 - [`Motivot`](https://github.com/rlaehd62/Motivot)
-- [`Khrono System`](https://github.com/rlaehd62/Khrono-System)
 - [`Youtube-Like`](https://github.com/rlaehd62/Youtube-Like)
-- [`Spring-Like JSP`](https://github.com/rlaehd62/Spring-lke-JSP)
 
 ## 🔥 Skill
 
