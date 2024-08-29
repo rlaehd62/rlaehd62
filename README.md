@@ -9,7 +9,7 @@
 현재는 `Scalable Monolithic`과 `Real-Time Streaming` 기술, 그리고 `Community` 대해 흥미를 갖고 있습니다.
 > [`See Also`](https://www.swyx.io/learn-in-private)
 
-##   � Career
+## 👣 Career
 - `2024.03` : (주모티버버 산학협력 및 메타버스 사업 기여 (Motivot 개발, Project Leader)
 - `2024.03` : 한국정보처리학회 ASK 2024 논문 게재 및 제1 저자 (Author)
 - `2024.07` : (주)제윤 현장실습 및 헬스케어 사업 기여 (Mobile Application 개발)
