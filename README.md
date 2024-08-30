@@ -17,8 +17,8 @@
 ## 📦 Project
 - [`Spring-Like-JSP`](https://github.com/rlaehd62/Spring-lke-JSP)
 - [`Telestration`](https://github.com/rlaehd62/Telestration)
-- [`Mini-Studio`](https://github.com/rlaehd62/mini-studio)
 - [`Youtube-Like`](https://github.com/rlaehd62/Youtube-Like)
+- [`Mini-Studio`](https://github.com/rlaehd62/mini-studio)
 - [`Motivot`](https://github.com/rlaehd62/Motivot)
 
 ## 🌱 Skill
