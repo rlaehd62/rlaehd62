@@ -4,6 +4,8 @@
 
 </div>
 
+> 매일 1%, Community와 함께 꾸준히 성장하는 개발자!
+
 현재 경북대학교에 재학 중이며 DevOps 개발자를 목표로 공부하고 있습니다! 저는 과거에 성장이 더뎌지고 방향성에 대한 혼란으로 많은 어려움을 겪었습니다.
 그러나 우연히 읽게 된 [`Learn In Public`](https://www.swyx.io/learn-in-public)라는 글을 통해 흐릿했던 제 가치관과 방향성을 확립하게 됐습니다! 그 이후로 블로그를 통해 여러 과정을 공유하려고 노력하고 있으며,
 현재는 `Scalable Monolithic`과 `Real-Time Streaming` 기술, 그리고 `Community` 대해 흥미를 갖고 있습니다.
