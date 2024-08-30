@@ -15,8 +15,9 @@
 - `2024.07` : (주)제윤 현장실습 및 헬스케어 사업 기여 (Mobile Application 개발)
 
 ## 📦 Project
-- [`Motivot`](https://github.com/rlaehd62/Motivot)
+- [`Mini-Studio`](https://github.com/rlaehd62/mini-studio)
 - [`Youtube-Like`](https://github.com/rlaehd62/Youtube-Like)
+- [`Motivot`](https://github.com/rlaehd62/Motivot)
 
 ## 🌱 Skill
 
