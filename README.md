@@ -20,11 +20,10 @@
 - `2024.09` : 2024 대구를 빛내는 SW 해커톤 참가 (Almost Member)
 
 ## 📦 Project
-- [`Spring-Like-JSP`](https://github.com/rlaehd62/Spring-lke-JSP)
+- [`Motivot`](https://github.com/rlaehd62/Motivot)
+- [`Mini-Studio`](https://github.com/rlaehd62/mini-studio)
 - [`Telestration`](https://github.com/rlaehd62/Telestration)
 - [`Youtube-Like`](https://github.com/rlaehd62/Youtube-Like)
-- [`Mini-Studio`](https://github.com/rlaehd62/mini-studio)
-- [`Motivot`](https://github.com/rlaehd62/Motivot)
 
 ## 🌱 Skill
 
