@@ -12,12 +12,17 @@
 > [`See Also`](https://www.swyx.io/learn-in-private)
 
 ## 👣 Career
-- `2024.03` : (주)모티버 산학협력 및 메타버스 사업 기여 (Motivot 개발, Project Leader)
+- `2024.03` : (주)모티버 산학협력 및 메타버스 연동 챗봇 Motivot 개발 (PL)
+- `2024.07` : (주)제윤 현장실습 및 헬스케어 사업 기여 (Android)
+- `2024.09` : (주)리터놀 산학협력 및 프로젝트 진행 중 (BE)
+
+#### Experience
 - `2024.03` : 한국정보처리학회 ASK 2024 논문 게재 및 제1 저자 (Author)
-- `2024.07` : (주)제윤 현장실습 및 헬스케어 사업 기여 (Mobile Application 개발)
-- `2024.09` : (주)리터놀 산학협력 및 프로젝트 진행 중 (Member)
-- `2024.09` : 2024 오픈소스 컨트리뷰션 아카데미 체험형 2차 참가 중 (Mentee)
-- `2024.09` : 2024 대구를 빛내는 SW 해커톤 참가 (Almost Member)
+- `2024.09` : 2024 오픈소스 컨트리뷰션 아카데미 체험형 2차 참가 (Mentee)
+- `2024.09` : 2024 대구를 빛내는 SW 해커톤 참가 (Member)
+
+#### OpenSource
+- [`Ant Design Korea 문서번역 기여 1`](https://github.com/ant-design-korea/ant-design/pull/10)
 
 ## 📦 Project
 - [`Motivot`](https://github.com/rlaehd62/Motivot)
