@@ -24,6 +24,7 @@
 #### OpenSource
 - [`Ant Design Korea 문서번역 기여 1`](https://github.com/ant-design-korea/ant-design/pull/10)
 - [`Ant Design Korea 문서번역 기여 2`](https://github.com/ant-design-korea/ant-design/pull/18)
+- [`Ant Design 문서화 기여`](https://github.com/ant-design/ant-design/pull/51176)
 
 ## 📦 Project
 - [`Motivot`](https://github.com/rlaehd62/Motivot)
