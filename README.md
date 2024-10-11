@@ -22,42 +22,34 @@
 - `2024.09` : 2024 대구를 빛내는 SW 해커톤 (우수상)
 
 #### OpenSource
-- [`Ant Design Korea 문서번역 기여 1`](https://github.com/ant-design-korea/ant-design/pull/10)
-- [`Ant Design Korea 문서번역 기여 2`](https://github.com/ant-design-korea/ant-design/pull/18)
-- [`Ant Design 문서화 기여`](https://github.com/ant-design/ant-design/pull/51176)
+##### Ant Design 
+- [`PR 1`](https://github.com/ant-design-korea/ant-design/pull/10)
+- [`PR 2`](https://github.com/ant-design-korea/ant-design/pull/18)
+- [`PR 3`](https://github.com/ant-design/ant-design/pull/51176)
 
 ## 📦 Project
-- [`Motivot`](https://github.com/rlaehd62/Motivot)
-- [`Mini-Studio`](https://github.com/rlaehd62/mini-studio)
-- [`Telestration`](https://github.com/rlaehd62/Telestration)
-- [`Youtube-Like`](https://github.com/rlaehd62/Youtube-Like)
+- [`Motivot 질의응답 챗봇`](https://github.com/rlaehd62/Motivot)
+- [`Mini-Studio MSA 스트리밍 서비스`](https://github.com/rlaehd62/mini-studio)
+- [`Telestration 멀티플레이 게임`](https://github.com/rlaehd62/Telestration)
+- [`Youtube-Like 스트리밍 서비스`](https://github.com/rlaehd62/Youtube-Like)
+- [`Connectdu AI 학습 보조 플랫폼`](https://github.com/TEAM-MukTae)
 
 ## 🌱 Skill
 
 #### Language (Proficient)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+> Java, Python
 
-#### Server-Side (Proficient)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+#### BE (Proficient)
+> Spring, FastAPI
 
-#### Front-Side (Experienced)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+#### FE (Experienced)
+> Next JS, React, Android
+
+#### DB (Experienced)
+> MySQL, Redis
 
 #### Infrastructure (Experienced)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-
-#### Database (Experienced)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+Docker, Jenkins, Nginx
 
 ## 💬 Contacts
 Best Way to contact me as fast as possible, is to send me a mail.
