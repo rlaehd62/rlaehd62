@@ -29,9 +29,6 @@
 
 ## 📦 Project
 - [`Motivot 질의응답 챗봇`](https://github.com/rlaehd62/Motivot)
-- [`Mini-Studio MSA 스트리밍 서비스`](https://github.com/rlaehd62/mini-studio)
-- [`Telestration 멀티플레이 게임`](https://github.com/rlaehd62/Telestration)
-- [`Youtube-Like 스트리밍 서비스`](https://github.com/rlaehd62/Youtube-Like)
 - [`Connectdu AI 학습 보조 플랫폼`](https://github.com/TEAM-MukTae)
 
 ## 🌱 Skill
