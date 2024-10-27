@@ -40,7 +40,7 @@
 > Spring, FastAPI
 
 #### FE (Experienced)
-> Next JS, React, Android
+> Next JS, React
 
 #### DB (Experienced)
 > MySQL, Redis
