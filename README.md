@@ -38,7 +38,7 @@
 > Java, Python
 
 #### BE (Proficient)
-> Spring, FastAPI
+> Spring Boot, Spring Data JPA, FastAPI
 
 #### FE (Experienced)
 > Next JS, React
