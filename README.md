@@ -22,10 +22,10 @@
 - `2024.11` : 2024 우아한테크코스 7기 프리코스 (완주)
 
 #### OpenSource
-##### Ant Design 
-- [`PR 1`](https://github.com/ant-design-korea/ant-design/pull/10)
-- [`PR 2`](https://github.com/ant-design-korea/ant-design/pull/18)
-- [`PR 3`](https://github.com/ant-design/ant-design/pull/51176)
+- **Ant Design** 
+  - [`PR 1`](https://github.com/ant-design-korea/ant-design/pull/10)
+  - [`PR 2`](https://github.com/ant-design-korea/ant-design/pull/18)
+  - [`PR 3`](https://github.com/ant-design/ant-design/pull/51176)
 
 ## 📦 Project
 - [`Motivot 질의응답 챗봇`](https://github.com/rlaehd62/Motivot)
