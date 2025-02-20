@@ -24,7 +24,6 @@
 - `2024.09` : 2024 대구를 빛내는 SW 해커톤 (우수상)
 - `2024.11` : 우아한테크코스 7기 프리코스 (완주)
 - `2024.11` : 공개SW개발 포트폴리오 경진대회 (은상)
-- `2024.12` : 경북대학교 산학협력프로젝트 경진대회 (참여/발표)
 
 #### OpenSource
 - **Ant Design** 
@@ -43,9 +42,6 @@
 
 #### BE (Proficient)
 > Spring Boot, Spring Data JPA, FastAPI
-
-#### FE (Experienced)
-> Next JS, React
 
 #### DB (Experienced)
 > MySQL, Redis
