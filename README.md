@@ -8,8 +8,8 @@
 
 ### About Me
 - **Software Developer/Researcher**
+ - **`Email`** : rlaehd62@gmail.com
 - [`Blog`](https://rlaehd62.github.io/)
-- [`Email`](rlaehd62@gmail.com)
 
 ### Interest
 - Social Impact Tech
