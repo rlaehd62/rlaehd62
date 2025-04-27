@@ -15,6 +15,7 @@ Any kind of proposals are always welcome!
 
 ### Interest
 - Social Impact Tech
+- **Data Engineering**
 - **Intelligent Software Systems**
 - Digital Healthcare
 
