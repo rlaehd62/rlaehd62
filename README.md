@@ -9,7 +9,7 @@
 Any kind of proposals are always welcome!
 
 ### About Me
-- **Software Developer/Researcher**
+- **Software Developer/Research Engineer**
  - **`Email`** : rlaehd62@gmail.com
 - [`Blog`](https://rlaehd62.github.io/)
 
