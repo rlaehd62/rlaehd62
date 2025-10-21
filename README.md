@@ -14,10 +14,8 @@ Any kind of proposals are always welcome!
 - [`Blog`](https://rlaehd62.github.io/)
 
 ### Interest
-- Social Impact Tech
 - **Data Engineering**
 - **Intelligent Software Systems**
-- Digital Healthcare
 
 ### Contribution
 #### Ant Design/Ant Design Korea
