@@ -9,7 +9,7 @@
 Any kind of proposals are always welcome!
 
 ### About Me
-- **MLOps/ML Engineer**
+- **AI Engineer**
  - **`Email`** : rlaehd62@gmail.com
 
 ### Open Source
